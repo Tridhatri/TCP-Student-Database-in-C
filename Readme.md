@@ -1,10 +1,10 @@
-# Assignment -1 : Unix Network Programming
+# Unix Network Programming
 **Authors:** 21mcme27 - Shashikant Yadav & 21mcme17 - Tridhatri Sontena
 
 Created on: 04/08/24 
 
 Updates : 11/08/24 - Implemented input file processing as command line argument
-        17/08/24 - Assignement 3 implementation
+       
 ### Instructions for running the program
 ## 1.Run 'make'
 Once you do that, you should be able to see file named 2127_2117 executable file
